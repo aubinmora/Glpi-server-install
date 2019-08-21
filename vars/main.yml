@@ -1,6 +1,9 @@
 ---
 php_version: 73
 
+glpi_major_version: 94
+
+
 glpi_user: glpi
 glpi_user_password: MyPassword
 
